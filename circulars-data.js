@@ -365,4 +365,4 @@ const circulars = [
         "modalContent": "<p>This circular details the process for government vehicles to apply for FASTag exemption through the dedicated FASTag Exemptron Portal.</p>"
     }
     // --- ADD NEW CIRCULARS ABOVE THIS LINE ---
-];
+]
