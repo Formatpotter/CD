@@ -1,17 +1,3 @@
-/*
- * =================================================================
- * CIRCULARS DATA FILE (ADVANCED VERSION)
- * =================================================================
- * This file contains the data for your advanced circulars page.
- * 'circularNo' is a number for correct sorting.
- * 'department' and 'category' have been left as placeholders for you to fill in.
- * 'modalContent' is the summary text shown in the "Quick View" popup.
- *
- * To add a new circular, copy and paste a new object inside the
- * 'circulars' array. Make sure to add a comma after each object
- * except for the very last one.
- */
-
 const circulars = [
     {
         "date": "21-06-2025",
@@ -19,7 +5,8 @@ const circulars = [
         "department": "SME",
         "circularNo": 6597,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1sHJwOoLmh0nhFSL87kzzkndk8WawCqBw",
+        "view": "https://drive.google.com/file/d/1sHJwOoLmh0nhFSL87kzzkndk8WawCqBw/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1sHJwOoLmh0nhFSL87kzzkndk8WawCqBw",
         "modalContent": "<p>This circular details the procedure for providing free uniforms to students in Classes 1-8 for the upcoming academic year.</p>"
     },
     {
@@ -28,7 +15,8 @@ const circulars = [
         "department": "SDTE",
         "circularNo": 3779,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1mo52M5cLgLBu4CbX5kEeJlKjsXfxe7w2",
+        "view": "https://drive.google.com/file/d/1mo52M5cLgLBu4CbX5kEeJlKjsXfxe7w2/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1mo52M5cLgLBu4CbX5kEeJlKjsXfxe7w2",
         "modalContent": "<p>This circular officially announces the change of the official email address for the School & Mass Education (SD & TE) Department.</p>"
     },
     {
@@ -37,7 +25,8 @@ const circulars = [
         "department": "SME",
         "circularNo": 16900,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1ZHMqcq9FgiSpqr6BLkZY3h-ywq9vArql",
+        "view": "https://drive.google.com/file/d/1ZHMqcq9FgiSpqr6BLkZY3h-ywq9vArql/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1ZHMqcq9FgiSpqr6BLkZY3h-ywq9vArql",
         "modalContent": "<p>This order revises the material cost per unit for items provided under the PM POSHAN (Mid-Day Meal) scheme.</p>"
     },
     {
@@ -46,16 +35,18 @@ const circulars = [
         "department": "SME",
         "circularNo": 16892,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1V_IAI32BdKJ2Abu3A1kM8k8sz2Eg5tDu",
+        "view": "https://drive.google.com/file/d/1V_IAI32BdKJ2Abu3A1kM8k8sz2Eg5tDu/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1V_IAI32BdKJ2Abu3A1kM8k8sz2Eg5tDu",
         "modalContent": "<p>This circular announces an enhancement in the cooking cost provided under the PM POSHAN (Mid-Day Meal) scheme.</p>"
     },
-       {
+    {
         "date": "20-06-2025",
         "title": "Change of e-mail Id of Works Department Odisha",
         "department": "WORKS",
         "circularNo": 12077,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1PRQuh-JLsfCkpal-kuT2Mttcxx_k7KOw",
+        "view": "https://drive.google.com/file/d/1PRQuh-JLsfCkpal-kuT2Mttcxx_k7KOw/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1PRQuh-JLsfCkpal-kuT2Mttcxx_k7KOw",
         "modalContent": "<p>This circular officially announces the change of the official email address for the Works Department of Odisha.</p>"
     },
     {
@@ -64,7 +55,8 @@ const circulars = [
         "department": "SME",
         "circularNo": 16824,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1Li0heakfDfuFWUWE35E6KYPPA1i9Rigy",
+        "view": "https://drive.google.com/file/d/1Li0heakfDfuFWUWE35E6KYPPA1i9Rigy/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1Li0heakfDfuFWUWE35E6KYPPA1i9Rigy",
         "modalContent": "<p>This order outlines the process and criteria for the rationalization of Secondary and Elementary Teachers within each district.</p>"
     },
     {
@@ -73,7 +65,8 @@ const circulars = [
         "department": "GAPG",
         "circularNo": 20755,
         "category": "PENSION",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1JAUkNA-fjsgjv-f3MMwEO_uc9-Wudi_0",
+        "view": "https://drive.google.com/file/d/1JAUkNA-fjsgjv-f3MMwEO_uc9-Wudi_0/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1JAUkNA-fjsgjv-f3MMwEO_uc9-Wudi_0",
         "modalContent": "<p>This circular directs all concerned departments to ensure the timely and correct implementation of the Unified Pension Scheme for All India Services Officers.</p>"
     },
     {
@@ -82,7 +75,8 @@ const circulars = [
         "department": "RDM",
         "circularNo": 22206,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1KGjVsHNMqJMTmAReA3sSCCkIGExQ5Lgc",
+        "view": "https://drive.google.com/file/d/1KGjVsHNMqJMTmAReA3sSCCkIGExQ5Lgc/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1KGjVsHNMqJMTmAReA3sSCCkIGExQ5Lgc",
         "modalContent": "<p>This order provides the procedure and guidelines for the rectification of 'Swatwa' status in the Record of Rights (RoR) for leasehold government land.</p>"
     },
     {
@@ -91,7 +85,8 @@ const circulars = [
         "department": "SME",
         "circularNo": 6556,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=167uBbNPotbSYTKitY7C5atjGi1gfDxlb",
+        "view": "https://drive.google.com/file/d/167uBbNPotbSYTKitY7C5atjGi1gfDxlb/preview",
+        "download": "https://drive.google.com/uc?export=download&id=167uBbNPotbSYTKitY7C5atjGi1gfDxlb",
         "modalContent": "<p>This circular issues important guidelines to ensure the safety and security of Kasturba Gandhi Balika Vidyalaya (KGBV) inmates upon their return to hostels after the summer vacation.</p>"
     },
     {
@@ -100,7 +95,8 @@ const circulars = [
         "department": "CSO",
         "circularNo": 111,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1spI7cyyTdsS01faqW-AjaLW78FVqX0G9",
+        "view": "https://drive.google.com/file/d/1spI7cyyTdsS01faqW-AjaLW78FVqX0G9/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1spI7cyyTdsS01faqW-AjaLW78FVqX0G9",
         "modalContent": "<p>This circular officially announces the change of the official email address for the office of the Chief Secretary, Government of Odisha.</p>"
     },
     {
@@ -109,7 +105,8 @@ const circulars = [
         "department": "FINANCE",
         "circularNo": 18194,
         "category": "General",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1D9qiimLglNd88ToNBxld0uCQjkuywLY-",
+        "view": "https://drive.google.com/file/d/1D9qiimLglNd88ToNBxld0uCQjkuywLY-/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1D9qiimLglNd88ToNBxld0uCQjkuywLY-",
         "modalContent": "<p>This document is a Ready Reckoner that summarizes and explains the recent amendments made to the Odisha General Financial Rules 2023.</p>"
     },
     {
@@ -118,7 +115,8 @@ const circulars = [
         "department": "HUD",
         "circularNo": 21993,
         "category": "General",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1wFlWVuuSXGzNCskDx_fOrEtTcfagvx8d",
+        "view": "https://drive.google.com/file/d/1wFlWVuuSXGzNCskDx_fOrEtTcfagvx8d/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1wFlWVuuSXGzNCskDx_fOrEtTcfagvx8d",
         "modalContent": "<p>This notification contains the Second Amendment Rules for 2025 related to Planning and Building Standards for Odisha Development Authorities.</p>"
     },
     {
@@ -127,7 +125,8 @@ const circulars = [
         "department": "EIT",
         "circularNo": 3227,
         "category": "General",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1WPPK0TFYK_u7yWyeCyzvHo7H_-FyKjPR",
+        "view": "https://drive.google.com/file/d/1WPPK0TFYK_u7yWyeCyzvHo7H_-FyKjPR/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1WPPK0TFYK_u7yWyeCyzvHo7H_-FyKjPR",
         "modalContent": "<p>This document presents the official Odisha Artificial Intelligence Policy for the year 2025, outlining the state's vision and strategy for AI adoption.</p>"
     },
     {
@@ -136,7 +135,8 @@ const circulars = [
         "department": "GOI",
         "circularNo": 25016022024,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1qP6mokx6x7cjxIX8qdtWs8VuUUN7QZJU",
+        "view": "https://drive.google.com/file/d/1qP6mokx6x7cjxIX8qdtWs8VuUUN7QZJU/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1qP6mokx6x7cjxIX8qdtWs8VuUUN7QZJU",
         "modalContent": "<p>This notification outlines the Amendment Rules of 2025 for the determination of fees, rates, and collection on National Highways.</p>"
     },
     {
@@ -145,16 +145,18 @@ const circulars = [
         "department": "HUD",
         "circularNo": 13783,
         "category": "RESTRUCTURING",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1c5oKSk-MyR0jtbJApCvKekG70iMIZAQ8",
+        "view": "https://drive.google.com/file/d/1c5oKSk-MyR0jtbJApCvKekG70iMIZAQ8/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1c5oKSk-MyR0jtbJApCvKekG70iMIZAQ8",
         "modalContent": "<p>This order details the restructuring measures for the posts of Amins, Field Inspectors (FIs), and Field Supervisors (FSs) within the Odisha Municipal Planning Service Cadre.</p>"
     },
-        {
+    {
         "date": "16-06-2025",
         "title": "Extension of last date for submission of recommendation of names of the persons who have rendered distinguished services in various fields for Padma Awards 2026",
         "department": "GAPG",
         "circularNo": 20156,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1j-ySSa_rrPL3Vf63wd7BXRTcSwv6heth",
+        "view": "https://drive.google.com/file/d/1j-ySSa_rrPL3Vf63wd7BXRTcSwv6heth/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1j-ySSa_rrPL3Vf63wd7BXRTcSwv6heth",
         "modalContent": "<p>This circular announces the extension of the last date for submitting recommendations of names for the Padma Awards 2026 for distinguished persons.</p>"
     },
     {
@@ -163,7 +165,8 @@ const circulars = [
         "department": "GAPG",
         "circularNo": 20177,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1KAe3ZZR9WM3BdCu-6jxeKik8Ah8MBuaE",
+        "view": "https://drive.google.com/file/d/1KAe3ZZR9WM3BdCu-6jxeKik8Ah8MBuaE/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1KAe3ZZR9WM3BdCu-6jxeKik8Ah8MBuaE",
         "modalContent": "<p>This order conveys the government's approval for the construction of an 'Atithi Bhawan' (Guest House) at Unit-II, Ashok Nagar, Bhubaneswar.</p>"
     },
     {
@@ -172,7 +175,8 @@ const circulars = [
         "department": "GAPG",
         "circularNo": 19898,
         "category": "RA SCHEME",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1wdXMtYSJ0eKX5fynKQuv_6WJb_XSohE8",
+        "view": "https://drive.google.com/file/d/1wdXMtYSJ0eKX5fynKQuv_6WJb_XSohE8/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1wdXMtYSJ0eKX5fynKQuv_6WJb_XSohE8",
         "modalContent": "<p>This circular provides important clarifications on the recent amendments made to the Odisha Civil Services Rehabilitation Assistance Rules in 2025.</p>"
     },
     {
@@ -181,7 +185,8 @@ const circulars = [
         "department": "GAPG",
         "circularNo": 19899,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1sQ5pXmlB-Dnbx8CCUlUpzhUyagHnEYaC",
+        "view": "https://drive.google.com/file/d/1sQ5pXmlB-Dnbx8CCUlUpzhUyagHnEYaC/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1sQ5pXmlB-Dnbx8CCUlUpzhUyagHnEYaC",
         "modalContent": "<p>This order outlines the rationalized method for assessing conversion fees for government land leased for residential purposes.</p>"
     },
     {
@@ -190,7 +195,8 @@ const circulars = [
         "department": "RDM",
         "circularNo": 21499,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1_x4us-4bP_E9IvLGEiBhH9joTaGcwVTY",
+        "view": "https://drive.google.com/file/d/1_x4us-4bP_E9IvLGEiBhH9joTaGcwVTY/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1_x4us-4bP_E9IvLGEiBhH9joTaGcwVTY",
         "modalContent": "<p>This notification clarifies the requirement and use of Aadhaar for various government-issued certificates under Section 7 of the Aadhaar Act, 2016.</p>"
     },
     {
@@ -199,7 +205,8 @@ const circulars = [
         "department": "MSME",
         "circularNo": 5100,
         "category": "RESTRUCTURING",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=17F9mabSGVq7ezRl2ppnhQnyKRLgt5T8B",
+        "view": "https://drive.google.com/file/d/17F9mabSGVq7ezRl2ppnhQnyKRLgt5T8B/preview",
+        "download": "https://drive.google.com/uc?export=download&id=17F9mabSGVq7ezRl2ppnhQnyKRLgt5T8B",
         "modalContent": "<p>This order details the restructuring of the District Ministerial Cadre within the Micro, Small and Medium Enterprise (MSME) Department.</p>"
     },
     {
@@ -208,7 +215,8 @@ const circulars = [
         "department": "GAPG",
         "circularNo": 19732,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=19qnUt8RHMLUXs26AfWVin92cSwV20K85",
+        "view": "https://drive.google.com/file/d/19qnUt8RHMLUXs26AfWVin92cSwV20K85/preview",
+        "download": "https://drive.google.com/uc?export=download&id=19qnUt8RHMLUXs26AfWVin92cSwV20K85",
         "modalContent": "<p>This circular reiterates the importance of maintaining timely and regular attendance by all government servants in state government offices.</p>"
     },
     {
@@ -217,7 +225,8 @@ const circulars = [
         "department": "SSEPD",
         "circularNo": 13869,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1IL6CwmsJ0anaWQD24xi2gc6b3gKMBnj3",
+        "view": "https://drive.google.com/file/d/1IL6CwmsJ0anaWQD24xi2gc6b3gKMBnj3/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1IL6CwmsJ0anaWQD24xi2gc6b3gKMBnj3",
         "modalContent": "<p>This document lays down the official Equal Opportunity Policy for Persons with Disabilities, ensuring non-discriminatory practices in all government establishments.</p>"
     },
     {
@@ -226,7 +235,8 @@ const circulars = [
         "department": "HOME",
         "circularNo": 24639,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1v7_20O17OPLfinacyrGkMdvOzjHOiyTO",
+        "view": "https://drive.google.com/file/d/1v7_20O17OPLfinacyrGkMdvOzjHOiyTO/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1v7_20O17OPLfinacyrGkMdvOzjHOiyTO",
         "modalContent": "<p>This circular announces the extension of the validity of Secretariat Identity Cards until December 31, 2025.</p>"
     },
     {
@@ -235,7 +245,8 @@ const circulars = [
         "department": "GAPG",
         "circularNo": 19581,
         "category": "PAR",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1iojG_1zEVBDfUjCmXB-j1BgA9JqqA254",
+        "view": "https://drive.google.com/file/d/1iojG_1zEVBDfUjCmXB-j1BgA9JqqA254/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1iojG_1zEVBDfUjCmXB-j1BgA9JqqA254",
         "modalContent": "<p>This order outlines the phased integration of the 'GOT Karmayogi' platform into the Performance Assessment Framework for government employees.</p>"
     },
     {
@@ -244,7 +255,8 @@ const circulars = [
         "department": "SME",
         "circularNo": 485,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=18wbqai_FtO0cLYneqh6hoaJ4PncD-MRd",
+        "view": "https://drive.google.com/file/d/18wbqai_FtO0cLYneqh6hoaJ4PncD-MRd/preview",
+        "download": "https://drive.google.com/uc?export=download&id=18wbqai_FtO0cLYneqh6hoaJ4PncD-MRd",
         "modalContent": "<p>This circular provides instructions for the immediate serving of the Mid-Day Meal on the day of school reopening after vacations.</p>"
     },
     {
@@ -253,16 +265,18 @@ const circulars = [
         "department": "PNC",
         "circularNo": 8257,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1eSHv81uB4e-iGJ6faBDM8ojJakkFtGW7",
+        "view": "https://drive.google.com/file/d/1eSHv81uB4e-iGJ6faBDM8ojJakkFtGW7/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1eSHv81uB4e-iGJ6faBDM8ojJakkFtGW7",
         "modalContent": "<p>This document introduces the Administrative and Government Efficiency Initiatives (AAGEI) aimed at improving governance and service delivery.</p>"
     },
-       {
+    {
         "date": "10-06-2025",
         "title": "Modification in Tatkal scheme",
         "department": "GOI",
         "circularNo": 202520,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1Yw8nQe9OTar-VfaMJAlvRwBTomGfL9kB",
+        "view": "https://drive.google.com/file/d/1Yw8nQe9OTar-VfaMJAlvRwBTomGfL9kB/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1Yw8nQe9OTar-VfaMJAlvRwBTomGfL9kB",
         "modalContent": "<p>This circular announces modifications to the existing 'Tatkal' scheme, detailing the changes in procedures or fees.</p>"
     },
     {
@@ -271,7 +285,8 @@ const circulars = [
         "department": "RDM",
         "circularNo": 20922,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1DvmAgRoi65cW9NEQwpl89ZBs_ARuneoD",
+        "view": "https://drive.google.com/file/d/1DvmAgRoi65cW9NEQwpl89ZBs_ARuneoD/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1DvmAgRoi65cW9NEQwpl89ZBs_ARuneoD",
         "modalContent": "<p>This document presents the draft Odisha Survey and Settlement Amendment Rules for 2025, open for public review and suggestions.</p>"
     },
     {
@@ -280,7 +295,8 @@ const circulars = [
         "department": "SME",
         "circularNo": 6211,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1UBQbJF5_KvaUYAPUoV4txzwPi0Dc4TcR",
+        "view": "https://drive.google.com/file/d/1UBQbJF5_KvaUYAPUoV4txzwPi0Dc4TcR/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1UBQbJF5_KvaUYAPUoV4txzwPi0Dc4TcR",
         "modalContent": "<p>This notification invites proposals for the introduction of new Vocational Education Schools under the Samagra Shiksha and PM-SHRI schemes for the academic year 2025-26.</p>"
     },
     {
@@ -289,7 +305,8 @@ const circulars = [
         "department": "GAPG",
         "circularNo": 19312,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=12_qe7s7MuT1_n7VMEejEVjrO732NP8wD",
+        "view": "https://drive.google.com/file/d/12_qe7s7MuT1_n7VMEejEVjrO732NP8wD/preview",
+        "download": "https://drive.google.com/uc?export=download&id=12_qe7s7MuT1_n7VMEejEVjrO732NP8wD",
         "modalContent": "<p>This notification contains the Amendment Rules of 2025 regarding the fixation of the upper age limit for the Odisha Civil Services.</p>"
     },
     {
@@ -298,7 +315,8 @@ const circulars = [
         "department": "HUD",
         "circularNo": 13043,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1agr2jLprW03TzS2T7klre_8JFFSKdTdp",
+        "view": "https://drive.google.com/file/d/1agr2jLprW03TzS2T7klre_8JFFSKdTdp/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1agr2jLprW03TzS2T7klre_8JFFSKdTdp",
         "modalContent": "<p>This notification contains the Second Amendment Rules for 2025 related to Planning and Building Standards for Odisha Development Authorities.</p>"
     },
     {
@@ -307,7 +325,8 @@ const circulars = [
         "department": "HUD",
         "circularNo": 13037,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1f_aPPOtsQ3OTy44r6rvR5uretx_1ILyQ",
+        "view": "https://drive.google.com/file/d/1f_aPPOtsQ3OTy44r6rvR5uretx_1ILyQ/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1f_aPPOtsQ3OTy44r6rvR5uretx_1ILyQ",
         "modalContent": "<p>This notification contains the Second Amendment Rules for 2025 related to Planning and Building Standards for the Odisha Town Planning and Improvement Trust.</p>"
     },
     {
@@ -316,7 +335,8 @@ const circulars = [
         "department": "HUD",
         "circularNo": 12951,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1EnxgUl79guMox0BbZwv3aWl5X4WpEo9S",
+        "view": "https://drive.google.com/file/d/1EnxgUl79guMox0BbZwv3aWl5X4WpEo9S/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1EnxgUl79guMox0BbZwv3aWl5X4WpEo9S",
         "modalContent": "<p>This circular announces the extension of a life insurance cover of Rs. 1000 Lakh to the families of Grade-I category Core Sanitation Workers.</p>"
     },
     {
@@ -325,16 +345,18 @@ const circulars = [
         "department": "ENERGY",
         "circularNo": 7460,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1HLmKy5wQuxtq-1Leykx0RgyOaXQmbgTA",
+        "view": "https://drive.google.com/file/d/1HLmKy5wQuxtq-1Leykx0RgyOaXQmbgTA/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1HLmKy5wQuxtq-1Leykx0RgyOaXQmbgTA",
         "modalContent": "<p>This notification contains the Amendment Rules of 2025 for the qualifications, powers, and functions of the Chief Electrical Inspector and Electrical Inspectors.</p>"
     },
-      {
+    {
         "date": "06-06-2025",
         "title": "Proposal of an integrated Digital Stack and Asset Management System for creation of Work Passbook",
         "department": "CSO",
         "circularNo": 99,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=10DFyFdwiPq0Lb8mlts9nQP6gBjDkLmb0",
+        "view": "https://drive.google.com/file/d/10DFyFdwiPq0Lb8mlts9nQP6gBjDkLmb0/preview",
+        "download": "https://drive.google.com/uc?export=download&id=10DFyFdwiPq0Lb8mlts9nQP6gBjDkLmb0",
         "modalContent": "<p>This circular proposes the creation of an integrated Digital Stack and Asset Management System for the purpose of creating a digital Work Passbook.</p>"
     },
     {
@@ -343,7 +365,8 @@ const circulars = [
         "department": "GAPG",
         "circularNo": 18994,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1WQ59l-SQW2ZE7ZCgEfJNgpHtAAmJy8Pe",
+        "view": "https://drive.google.com/file/d/1WQ59l-SQW2ZE7ZCgEfJNgpHtAAmJy8Pe/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1WQ59l-SQW2ZE7ZCgEfJNgpHtAAmJy8Pe",
         "modalContent": "<p>This circular forwards nominations received from the Department of Personnel and Training (DoPT) for the Long Term Domestic Training Programme.</p>"
     },
     {
@@ -352,7 +375,8 @@ const circulars = [
         "department": "HFW",
         "circularNo": 16555,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1MwykYS51686lE-W_YZ6ql2kZIc8AEbdO",
+        "view": "https://drive.google.com/file/d/1MwykYS51686lE-W_YZ6ql2kZIc8AEbdO/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1MwykYS51686lE-W_YZ6ql2kZIc8AEbdO",
         "modalContent": "<p>This order makes a provision for adding a questionnaire related to Sanitary Napkins in the Odisha School Management Application (OSMA).</p>"
     },
     {
@@ -361,8 +385,8 @@ const circulars = [
         "department": "WORKS",
         "circularNo": 11079,
         "category": "GENERAL",
-        "pdfLink": "https://drive.google.com/uc?export=download&id=1G62pqd4u3M9SnSfC5_BB06H7kQ0hmlgu",
+        "view": "https://drive.google.com/file/d/1G62pqd4u3M9SnSfC5_BB06H7kQ0hmlgu/preview",
+        "download": "https://drive.google.com/uc?export=download&id=1G62pqd4u3M9SnSfC5_BB06H7kQ0hmlgu",
         "modalContent": "<p>This circular details the process for government vehicles to apply for FASTag exemption through the dedicated FASTag Exemptron Portal.</p>"
     }
-    // --- ADD NEW CIRCULARS ABOVE THIS LINE ---
-]
+];
