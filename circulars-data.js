@@ -306,7 +306,7 @@ const circulars = [
         "title": "Odisha Town Planning and Improvement TrustPlanning and Building Standards Second Amendment Rules 2025",
         "department": "HUD",
         "circularNo": 13037,
-        "category": "GENERAL"
+        "category": "GENERAL",
         "pdfLink": "https://drive.google.com/uc?export=download&id=1f_aPPOtsQ3OTy44r6rvR5uretx_1ILyQ",
         "modalContent": "<p>This notification contains the Second Amendment Rules for 2025 related to Planning and Building Standards for the Odisha Town Planning and Improvement Trust.</p>"
     },
