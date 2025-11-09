@@ -388,5 +388,205 @@ const circulars = [
         "view": "https://drive.google.com/file/d/1G62pqd4u3M9SnSfC5_BB06H7kQ0hmlgu/preview",
         "download": "https://drive.google.com/uc?export=download&id=1G62pqd4u3M9SnSfC5_BB06H7kQ0hmlgu",
         "modalContent": "<p>This circular details the process for government vehicles to apply for FASTag exemption through the dedicated FASTag Exemptron Portal.</p>"
-    }
+    },
+    {
+"date": "21-06-2025",
+"title": "Rationalisation of Kisam in Swatwa of RoR",
+"department": "RDM",
+"circularNo": "22530",
+"category": "GENERAL",
+"view": "https://drive.google.com/file/d/1zSicNl7_ELCOW0ODmvJ5MfiT0e5zsQoo/preview",
+"download": "https://drive.google.com/file/d/1zSicNl7_ELCOW0ODmvJ5MfiT0e5zsQoo",
+"modalContent": "<p>This circular addresses the rationalisation of Kisam in Swatwa of RoR.</p>"
+},
+{
+"date": "21-06-2025",
+"title": "Removal of HDFC Bank ICICI Bank and Axis Bank from list of banks empaneled for handling busines and deposits of State Government Organisation",
+"department": "FINANCE",
+"circularNo": "18560",
+"category": "GENERAL",
+"view": "https://drive.google.com/file/d/1-yEtIYTcnQecieYN_SZ_JXAx-TP14-58/preview",
+"download": "https://drive.google.com/file/d/1-yEtIYTcnQecieYN_SZ_JXAx-TP14-58",
+"modalContent": "<p>This circular announces the removal of HDFC Bank, ICICI Bank and Axis Bank from the list of banks empaneled for handling business and deposits of State Government Organisations.</p>"
+},
+{
+"date": "21-06-2025",
+"title": "Land Acquisition, Rehabilitation and Resettlement Authorities  are attached with the District Treasury for all Government transaction including drawal of Salary",
+"department": "",
+"circularNo": "18507",
+"category": "GENERAL",
+"view": "https://drive.google.com/file/d/1y7H0vep1cCTNAfcp-0ERAlGbjcOX4F4n/preview",
+"download": "https://drive.google.com/file/d/1y7H0vep1cCTNAfcp-0ERAlGbjcOX4F4n",
+"modalContent": "<p>This circular states that Land Acquisition, Rehabilitation and Resettlement Authorities are attached with the District Treasury for all Government transactions including salary withdrawal.</p>"
+},
+{
+"date": "23-06-2025",
+"title": "Choice of Pension Funds and Investment for NPS Subscribers of State Autonomous Bodies SABs State Police Sector Undertakings SPSUs",
+"department": "FINANCE",
+"circularNo": "18591",
+"category": "PENSION",
+"view": "https://drive.google.com/file/d/11ceeyC8sVBAp-H4FBWzqKCx1wrjRqjHE/preview",
+"download": "https://drive.google.com/file/d/11ceeyC8sVBAp-H4FBWzqKCx1wrjRqjHE",
+"modalContent": "<p>This circular provides guidelines on the choice of Pension Funds and Investment options for NPS Subscribers of State Autonomous Bodies (SABs) and State Police Sector Undertakings (SPSUs).</p>"
+},
+{
+"date": "23-06-2025",
+"title": "Clarification on registration of joint properties without the consent of other Recorded Tenants",
+"department": "RDM",
+"circularNo": "22638",
+"category": "GENERAL",
+"view": "https://drive.google.com/file/d/1hOwvEoaBQ3TfbiAqSSY6_mRr2nbMQzif/preview",
+"download": "https://drive.google.com/file/d/1hOwvEoaBQ3TfbiAqSSY6_mRr2nbMQzif",
+"modalContent": "<p>This circular provides clarification regarding the registration of joint properties without the consent of other Recorded Tenants.</p>"
+},
+{
+"date": "24-06-2025",
+"title": "Constitution of committee for examining Odisha Board of Revenue Act 1951 and Odisha Revenue Divisional Commissioners Act 1957",
+"department": "RDM",
+"circularNo": "22856",
+"category": "GENERAL",
+"view": "https://drive.google.com/file/d/1ytvpfvI9ZLtJQkTrdgIDVloedfcE5vfL/preview",
+"download": "https://drive.google.com/file/d/1ytvpfvI9ZLtJQkTrdgIDVloedfcE5vfL",
+"modalContent": "<p>This circular announces the constitution of a committee for examining the Odisha Board of Revenue Act 1951 and Odisha Revenue Divisional Commissioners Act 1957.</p>"
+},
+{
+"date": "24-06-2025",
+"title": "Clarification regarding utilization of funds released by PR DW Department towards repair maintenance of assets transferred from SME HFW WCD and FARD Departments to PR0s",
+"department": "PRDW",
+"circularNo": "13536",
+"category": "GENERAL",
+"view": "https://drive.google.com/file/d/1N8qzXwavGoyteDajGuYzY_mes5QIComJ/preview",
+"download": "https://drive.google.com/file/d/1N8qzXwavGoyteDajGuYzY_mes5QIComJ",
+"modalContent": "<p>This circular provides clarification regarding the utilization of funds released by PR DW Department for repair and maintenance of assets transferred from SME, HFW, WCD and FARD Departments to PR0s.</p>"
+},
+{
+"date": "24-06-2025",
+"title": "Clarification regarding removal of HDFC Bank ICICI Bank and Axis Bank from list of banks empanelled for handling business and deposits of State Government Organisations",
+"department": "FINANCE",
+"circularNo": "18783",
+"category": "GENERAL",
+"view": "https://drive.google.com/file/d/1J1h-Kdb2R4ybYI88AKPP1Fx5g3F811hw/preview",
+"download": "https://drive.google.com/file/d/1J1h-Kdb2R4ybYI88AKPP1Fx5g3F811hw",
+"modalContent": "<p>This circular provides further clarification regarding the removal of HDFC Bank, ICICI Bank and Axis Bank from the list of banks empanelled for handling business and deposits of State Government Organisations.</p>"
+},
+{
+"date": "24-06-2025",
+"title": "Development of Biotechnology",
+"department": "SCIENCETECHNOLOGY",
+"circularNo": "3236",
+"category": "GENERAL",
+"view": "https://drive.google.com/file/d/1z23PSRpzMwWeGFEs7KUeADm6qh7RH-qS/preview",
+"download": "https://drive.google.com/file/d/1z23PSRpzMwWeGFEs7KUeADm6qh7RH-qS",
+"modalContent": "<p>This circular outlines initiatives and policies for the development of biotechnology in the state.</p>"
+},
+{
+"date": "26-06-2025",
+"title": "Examination of Old Records due for destruction in the year 2025",
+"department": "HOME",
+"circularNo": "26841",
+"category": "GENERAL",
+"view": "https://drive.google.com/file/d/1OeBdWzRpI_VJ6vHYe07_7Kggj68w1cNh/preview",
+"download": "https://drive.google.com/file/d/1OeBdWzRpI_VJ6vHYe07_7Kggj68w1cNh",
+"modalContent": "<p>This circular outlines the procedure for examination of old records that are due for destruction in the year 2025.</p>"
+},
+{
+"date": "30-06-2025",
+"title": "Opening of Sishu Vatikas in all Government Primary Schools where children in the age group of years 5-6 are admitted for Pre-School Education from the academic year 2025-26",
+"department": "SME",
+"circularNo": "17705",
+"category": "GENERAL",
+"view": "https://drive.google.com/file/d/1uhlm1hR5etePg-YkoVwkvZ2wZyTY1hAz/preview",
+"download": "https://drive.google.com/file/d/1uhlm1hR5etePg-YkoVwkvZ2wZyTY1hAz",
+"modalContent": "<p>This circular announces the opening of Sishu Vatikas in all Government Primary Schools for children aged 5-6 years for Pre-School Education from the academic year 2025-26.</p>"
+},
+{
+"date": "01-07-2025",
+"title": "Restructuring and revision of Pay Scale of Ministerial Staff of the District and Sub-ordinate Offices under ESI Scheme and formulation of Cadre Rule thereof",
+"department": "LABOURESI",
+"circularNo": "5908",
+"category": "RESTRUCTURING",
+"view": "https://drive.google.com/file/d/1leg_lLledPBGhI_uxMsxsq7ePi1BEewB/preview",
+"download": "https://drive.google.com/file/d/1leg_lLledPBGhI_uxMsxsq7ePi1BEewB",
+"modalContent": "<p>This circular details the restructuring and revision of Pay Scale of Ministerial Staff of District and Sub-ordinate Offices under ESI Scheme and the formulation of related Cadre Rules.</p>"
+},
+{
+"date": "01-07-2025",
+"title": "Frequently Asked Questions FAQs on Central Civil Services Leave Travel Concession Rules 1988 clarifications modifications in the LTC instructions",
+"department": "GOI",
+"circularNo": "31011072025",
+"category": "LTC",
+"view": "https://drive.google.com/file/d/1OxhqcyfksErfTRCJjJsxTPrNsKFT4kpp/preview",
+"download": "https://drive.google.com/file/d/1OxhqcyfksErfTRCJjJsxTPrNsKFT4kpp",
+"modalContent": "<p>This circular provides Frequently Asked Questions (FAQs) on Central Civil Services Leave Travel Concession Rules 1988, including clarifications and modifications in the LTC instructions.</p>"
+},
+{
+"date": "03-07-2025",
+"title": "Authorising DG of Fire and Emergency Service as Licensing Authority to issue license for undertaking or executing Fire Prevention and Fire Safety Measures or performing such other related activities",
+"department": "HOME",
+"circularNo": "27602",
+"category": "GENERAL",
+"view": "https://drive.google.com/file/d/1M0vFmjWkmCaZKhcBlDI4L0O9mS1u2dFl/preview",
+"download": "https://drive.google.com/file/d/1M0vFmjWkmCaZKhcBlDI4L0O9mS1u2dFl",
+"modalContent": "<p>This circular authorises the DG of Fire and Emergency Service as the Licensing Authority to issue licenses for undertaking Fire Prevention and Fire Safety Measures and related activities.</p>"
+},
+{
+"date": "03-07-2025",
+"title": "Holidays to be observed in Central Government Offices during the year-2026",
+"department": "GOI",
+"circularNo": "1222023",
+"category": "GENERAL",
+"view": "https://drive.google.com/file/d/1O-UJsrc8ZfcZ1OtEMmTmE05U4oIH72SD/preview",
+"download": "https://drive.google.com/file/d/1O-UJsrc8ZfcZ1OtEMmTmE05U4oIH72SD",
+"modalContent": "<p>This circular lists the holidays to be observed in Central Government Offices during the year 2026.</p>"
+},
+{
+"date": "03-07-2025",
+"title": "Release of Dearness Allowance  enhancing existing rate from 246 to 252 with effect from 01.01.2025 in favour of State Government employees drawing pay in pre-revised scales of Pay 2008",
+"department": "FINANCE",
+"circularNo": "19592",
+"category": "DA",
+"view": "https://drive.google.com/file/d/1BlP7EOP40OcQxynnlOTpsOWMC1Hyq3Ve/preview",
+"download": "https://drive.google.com/file/d/1BlP7EOP40OcQxynnlOTpsOWMC1Hyq3Ve",
+"modalContent": "<p>This circular announces the release of Dearness Allowance, enhancing the existing rate from 246 to 252 with effect from 01/01/2025 for State Government employees drawing pay in pre-revised scales of Pay 2008.</p>"
+},
+{
+"date": "04-07-2025",
+"title": "Delegation of Powers Notification of Establishment Officers and Rationalization of Assistant Section Officers / Section Officers (AAGEI)",
+"department": "GAPG",
+"circularNo": "23675",
+"category": "GENERAL",
+"view": "https://drive.google.com/file/d/1GtI4bVEJkt1Ifag2RuAZ1wvz2ene0zlk/preview",
+"download": "https://drive.google.com/file/d/1GtI4bVEJkt1Ifag2RuAZ1wvz2ene0zlk",
+"modalContent": "<p>This circular addresses the Delegation of Powers, Notification of Establishment Officers and Rationalization of Assistant Section Officers/Section Officers.</p>"
+},
+{
+"date": "04-07-2025",
+"title": "Adoption of Public Procurement Preference to Make in India Order 2017 of GoI by State Government of Odisha",
+"department": "FINANCE",
+"circularNo": "19731",
+"category": "PROCUREMENT",
+"view": "https://drive.google.com/file/d/1kQW5_2ZT0WBP1KC-0lwrYgTVAdh5oyJd/preview",
+"download": "https://drive.google.com/file/d/1kQW5_2ZT0WBP1KC-0lwrYgTVAdh5oyJd",
+"modalContent": "<p>This circular announces the adoption of Public Procurement Preference to Make in India Order 2017 of Government of India by the State Government of Odisha.</p>"
+},
+{
+"date": "08-07-2025",
+"title": "Implementation of Book Circular No 47 and timely submission of MPR",
+"department": "PARLIAMENTARY AFFAIRS",
+"circularNo": "5011",
+"category": "GENERAL",
+"view": "https://drive.google.com/file/d/1K7p_6YV_cu5hCUuZ7cX05ff1J5pn-b-E/preview",
+"download": "https://drive.google.com/file/d/1K7p_6YV_cu5hCUuZ7cX05ff1J5pn-b-E",
+"modalContent": "<p>This circular provides instructions for the implementation of Book Circular No 47 and emphasizes the timely submission of MPR.</p>"
+},
+{
+"date": "09-07-2025",
+"title": "Odisha Right of Children to Free and Compulsory Education Amendment Rules 2025",
+"department": "SME",
+"circularNo": "18660",
+"category": "ACT",
+"view": "https://drive.google.com/file/d/1BkhLpemHwQWaxLpSttXhjj5QH9N5Hd0D/preview",
+"download": "https://drive.google.com/file/d/1BkhLpemHwQWaxLpSttXhjj5QH9N5Hd0D",
+"modalContent": "<p>This circular introduces the Odisha Right of Children to Free and Compulsory Education Amendment Rules 2025.</p>"
+}
 ];
